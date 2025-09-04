@@ -1,6 +1,14 @@
 ## Hi there 👋
 
+---
 
+### 💼 Work Experience  
+👨‍🏫 **Undergraduate TA – Intro to Programming Principles (Python) (CSCI 1133)** @ UMN (Jan 2024 – Present)  
+🏦 **Data Engineer Intern** @ DigiKey (Jun 2025 – Aug 2025)  
+🛠 **Web Programming Intern** @ LinkUp (July 2024 – Jan 2025)  
+🧪 **Machine Learning Research Assistant** @ UMN - Parhi Lab (Feb 2024 – Jan 2025) 
+
+---
 ### 🛠 Languages & Technologies 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,php,c,postgres" />
